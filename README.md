@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Coder</h3>
 	
 <p align="center">
-  <img src="">
+  <img src="https://komarev.com/ghpvc/?username=parmeshwaryadav&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **ReactJS , NodeJs, etc.**
@@ -35,20 +35,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p>
-<a href="https://github.com/parmeshwaryadav">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parmeshwaryadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parmeshwaryadav&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href=""><img src=""/></a>
-<a href=""><img src=""/></a>
-<a href=""/></a>
+<a href="https://www.linkedin.com/in/parmeshwaryadav"><img src="https://img.shields.io/badge/-parmeshwaryadav-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yadavparmeshwar342@gmail.com"><img src="https://img.shields.io/badge/-yadavparmeshwar342@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/parmeshwar342"><img src="https://img.shields.io/badge/-@parmeshwar342-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="" /></p> -->

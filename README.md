@@ -4,7 +4,7 @@
 <p align="center">
   <img src="">
 </p>
-<p align='center'>
+
 - 🌱 I’m currently learning **ReactJS , NodeJs, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Parmeshwaryadav?tab=repositories)
@@ -12,7 +12,6 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **parmeshwar342@gmail.com**
-</p>
 
 	
 ### 🛠 &nbsp;Languages and Tools

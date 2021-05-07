@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=parmeshwaryadav&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **ReactJS , NodeJs, etc.**
+- 🌱 I’m currently learning **Reactjs , Node.js, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Parmeshwaryadav?tab=repositories)
 
